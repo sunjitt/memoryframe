@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "gallery": {
+    "name": "Asudef MemoryFrame",
+    "updated": "2026-09-04T15:00:00+09:00"
+  },
+  "photos": [
+    {
+      "id": "photo01",
+      "date": "2026-09-04T02:37:51+09:00",
+      "thumbnail": "PHOTO01_THUMB_URL",
+      "image": "PHOTO01_FULL_URL",
+      "tags": ["Mayo", "DosChat", "WorldTour"],
+      "collections": [],
+      "favorite": true
+    },
+    {
+      "id": "photo02",
+      "date": "2026-09-03T23:14:25+09:00",
+      "thumbnail": "PHOTO02_THUMB_URL",
+      "image": "PHOTO02_FULL_URL",
+      "tags": ["Kaguya", "Night"],
+      "collections": [],
+      "favorite": false
+    }
+  ]
+}
