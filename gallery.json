@@ -8,8 +8,8 @@
     {
       "id": "photo01",
       "date": "2026-09-04T02:37:51+09:00",
-      "thumbnail": "PHOTO01_THUMB_URL",
-      "image": "PHOTO01_FULL_URL",
+      "thumbnail": "https://sunjitt.github.io/memoryframe/thumbs/photo01.jpg",
+      "image": "https://sunjitt.github.io/memoryframe/full/photo01.jpg",
       "tags": ["Mayo", "DosChat", "WorldTour"],
       "collections": [],
       "favorite": true
@@ -17,8 +17,8 @@
     {
       "id": "photo02",
       "date": "2026-09-03T23:14:25+09:00",
-      "thumbnail": "PHOTO02_THUMB_URL",
-      "image": "PHOTO02_FULL_URL",
+      "thumbnail": "https://sunjitt.github.io/memoryframe/thumbs/photo02.jpg",
+      "image": "https://sunjitt.github.io/memoryframe/full/photo02.jpg",
       "tags": ["Kaguya", "Night"],
       "collections": [],
       "favorite": false
