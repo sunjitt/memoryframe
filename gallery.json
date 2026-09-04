@@ -6,16 +6,25 @@
   },
   "photos": [
     {
-  "id": "photo01",
-  "slot": 0,
-  "date": "2026-09-04T02:37:51+09:00",
-  "tags": ["Mayo", "DosChat", "WorldTour"]
-},
+      "id": "photo01",
+      "slot": 0,
+      "date": "2026-09-04T02:37:51+09:00",
+      "tags": [
+        "Mayo",
+        "DosChat",
+        "WorldTour"
+      ],
+      "favorite": true
+    },
     {
-  "id": "photo02",
-  "slot": 1,
-  "date": "2026-09-03T23:14:25+09:00",
-  "tags": ["Kaguya", "Night"]
-}
+      "id": "photo02",
+      "slot": 1,
+      "date": "2026-09-03T23:14:25+09:00",
+      "tags": [
+        "Kaguya",
+        "Night"
+      ],
+      "favorite": false
+    }
   ]
 }
