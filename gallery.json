@@ -6,22 +6,16 @@
   },
   "photos": [
     {
-      "id": "photo01",
-      "date": "2026-09-04T02:37:51+09:00",
-      "thumbnail": "https://sunjitt.github.io/memoryframe/thumbs/test_thumb.png",
-      "image": "https://sunjitt.github.io/memoryframe/full/test_full.png",
-      "tags": ["Mayo", "DosChat", "WorldTour"],
-      "collections": [],
-      "favorite": true
-    },
+  "id": "photo01",
+  "slot": 0,
+  "date": "2026-09-04T02:37:51+09:00",
+  "tags": ["Mayo", "DosChat", "WorldTour"]
+},
     {
-      "id": "photo02",
-      "date": "2026-09-03T23:14:25+09:00",
-      "thumbnail": "https://sunjitt.github.io/memoryframe/thumbs/VRChat_2026-09-01_23-12-26.693_3840x2160.png",
-      "image": "https://sunjitt.github.io/memoryframe/full/VRChat_2026-09-03_23-53-45.931_3840x2160.png",
-      "tags": ["Kaguya", "Night"],
-      "collections": [],
-      "favorite": false
-    }
+  "id": "photo02",
+  "slot": 1,
+  "date": "2026-09-03T23:14:25+09:00",
+  "tags": ["Kaguya", "Night"]
+}
   ]
 }
