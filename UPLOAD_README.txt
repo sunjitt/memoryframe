@@ -1,13 +1,17 @@
-MemoryFrame v0.13 categorized tag UI test set
+MemoryFrame Publish Bundle
+==========================
 
-- Reuses the 12 image test set.
-- gallery.json now uses categorized tag prefixes:
-  Avatar:Mayo / Avatar:Kaguya
-  Type:WorldTour / Type:Portrait
-  Group:DosChat
-  Place:Yorunomori / City / Beach / Room
-  Mood:Night
-- The UI hides the prefixes and shows #Mayo, #WorldTour, etc.
-- + TAGS popup should place them into AVATAR / TYPE / GROUP / PLACE / MOOD rows.
-- Multiple selected tags use AND filtering.
-- Selected tags should move to the front of the horizontal tag rail.
+Photo count: 18
+
+Upload these to your web root:
+- gallery.json
+- photos/
+- thumbs/
+
+gallery.json now includes capturedAt, worldName, and worldId when detected.
+
+Keep memoryframe_manifest.json locally if you want slot numbers to remain stable.
+It contains local source paths and does not need to be published.
+
+Configured public base URL:
+https://sunjitt.github.io/memoryframe/
