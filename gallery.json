@@ -55,7 +55,7 @@
       "worldId": "wrld_3ee1b4ad-ebd3-4521-9581-39f2bc5d4c12",
       "width": 3840,
       "height": 2160,
-      "featured": true,
+      "featured": false,
       "tags": [],
       "collections": [],
       "favorite": false
@@ -70,7 +70,7 @@
       "worldId": "wrld_d567c220-fb92-4fc3-b533-d96f8af211a0",
       "width": 2160,
       "height": 3840,
-      "featured": false,
+      "featured": true,
       "tags": [],
       "collections": [],
       "favorite": false
