@@ -1,9 +1,9 @@
 {
     "photos": [
         {
-            "slot": 23,
-            "image": "photos/0023.jpg",
-            "thumbnail": "thumbs/0023.jpg",
+            "slot": 5,
+            "image": "photos/0005.jpg",
+            "thumbnail": "thumbs/0005.jpg",
             "date": "2026-09-09",
             "capturedAt": "2026-09-09T00:01:37.3395851",
             "worldName": "夢見祭 ～ focus on me ǃ ～",
@@ -13,9 +13,9 @@
             "favorite": false
         },
         {
-            "slot": 22,
-            "image": "photos/0022.jpg",
-            "thumbnail": "thumbs/0022.jpg",
+            "slot": 4,
+            "image": "photos/0004.jpg",
+            "thumbnail": "thumbs/0004.jpg",
             "date": "2026-09-09",
             "capturedAt": "2026-09-09T00:00:30.5729925",
             "worldName": "夢見祭 ～ focus on me ǃ ～",
@@ -25,9 +25,9 @@
             "favorite": false
         },
         {
-            "slot": 21,
-            "image": "photos/0021.jpg",
-            "thumbnail": "thumbs/0021.jpg",
+            "slot": 3,
+            "image": "photos/0003.jpg",
+            "thumbnail": "thumbs/0003.jpg",
             "date": "2026-09-08",
             "capturedAt": "2026-09-08T23:44:56.1227421",
             "worldName": "-yuuri-貴方へ贈る愛言葉。",
@@ -37,9 +37,9 @@
             "favorite": false
         },
         {
-            "slot": 20,
-            "image": "photos/0020.jpg",
-            "thumbnail": "thumbs/0020.jpg",
+            "slot": 2,
+            "image": "photos/0002.jpg",
+            "thumbnail": "thumbs/0002.jpg",
             "date": "2026-09-08",
             "capturedAt": "2026-09-08T23:44:26.4181341",
             "worldName": "-yuuri-貴方へ贈る愛言葉。",
@@ -49,9 +49,9 @@
             "favorite": false
         },
         {
-            "slot": 19,
-            "image": "photos/0019.jpg",
-            "thumbnail": "thumbs/0019.jpg",
+            "slot": 1,
+            "image": "photos/0001.jpg",
+            "thumbnail": "thumbs/0001.jpg",
             "date": "2026-09-08",
             "capturedAt": "2026-09-08T02:20:31.7872483",
             "worldName": "RAIN CHECK",
@@ -61,9 +61,9 @@
             "favorite": false
         },
         {
-            "slot": 18,
-            "image": "photos/0018.jpg",
-            "thumbnail": "thumbs/0018.jpg",
+            "slot": 0,
+            "image": "photos/0000.jpg",
+            "thumbnail": "thumbs/0000.jpg",
             "date": "2026-09-08",
             "capturedAt": "2026-09-08T00:00:18.146",
             "worldName": "",
@@ -85,9 +85,9 @@
             "favorite": false
         },
         {
-            "slot": 17,
-            "image": "photos/0017.jpg",
-            "thumbnail": "thumbs/0017.jpg",
+            "slot": 23,
+            "image": "photos/0023.jpg",
+            "thumbnail": "thumbs/0023.jpg",
             "date": "2026-09-05",
             "capturedAt": "2026-09-05T01:25:43.950",
             "worldName": "",
@@ -97,9 +97,9 @@
             "favorite": false
         },
         {
-            "slot": 16,
-            "image": "photos/0016.jpg",
-            "thumbnail": "thumbs/0016.jpg",
+            "slot": 22,
+            "image": "photos/0022.jpg",
+            "thumbnail": "thumbs/0022.jpg",
             "date": "2026-09-05",
             "capturedAt": "2026-09-05T01:23:44.3644520",
             "worldName": "旋律の花園 ~Melodies Among the Flowers~",
@@ -109,9 +109,9 @@
             "favorite": false
         },
         {
-            "slot": 15,
-            "image": "photos/0015.jpg",
-            "thumbnail": "thumbs/0015.jpg",
+            "slot": 21,
+            "image": "photos/0021.jpg",
+            "thumbnail": "thumbs/0021.jpg",
             "date": "2026-08-31",
             "capturedAt": "2026-08-31T03:04:33.087",
             "worldName": "",
@@ -121,9 +121,9 @@
             "favorite": false
         },
         {
-            "slot": 14,
-            "image": "photos/0014.jpg",
-            "thumbnail": "thumbs/0014.jpg",
+            "slot": 20,
+            "image": "photos/0020.jpg",
+            "thumbnail": "thumbs/0020.jpg",
             "date": "2026-08-30",
             "capturedAt": "2026-08-30T02:16:38.946",
             "worldName": "",
@@ -133,11 +133,95 @@
             "favorite": false
         },
         {
+            "slot": 19,
+            "image": "photos/0019.jpg",
+            "thumbnail": "thumbs/0019.jpg",
+            "date": "2026-08-23",
+            "capturedAt": "2026-08-23T16:47:47.774",
+            "worldName": "",
+            "worldId": "",
+            "tags": [],
+            "collections": [],
+            "favorite": false
+        },
+        {
+            "slot": 18,
+            "image": "photos/0018.jpg",
+            "thumbnail": "thumbs/0018.jpg",
+            "date": "2026-08-16",
+            "capturedAt": "2026-08-16T00:52:59.0931032",
+            "worldName": "路地裏の隠れ家 - Alley Hiding Spot",
+            "worldId": "wrld_4eee4965-abed-4e99-b070-b2d10b30d84d",
+            "tags": [],
+            "collections": [],
+            "favorite": false
+        },
+        {
+            "slot": 17,
+            "image": "photos/0017.jpg",
+            "thumbnail": "thumbs/0017.jpg",
+            "date": "2026-08-07",
+            "capturedAt": "2026-08-07T02:18:46.3256901",
+            "worldName": "Grace ⁄ 恵み",
+            "worldId": "wrld_ff8d5a44-b9a4-47bc-a8e8-ba8958c0dd41",
+            "tags": [],
+            "collections": [],
+            "favorite": false
+        },
+        {
+            "slot": 16,
+            "image": "photos/0016.jpg",
+            "thumbnail": "thumbs/0016.jpg",
+            "date": "2026-08-07",
+            "capturedAt": "2026-08-07T01:21:57.6445422",
+            "worldName": "Yayoi forest path",
+            "worldId": "wrld_adb5e8c2-1a03-437a-a69e-9f98a84a8966",
+            "tags": [],
+            "collections": [],
+            "favorite": false
+        },
+        {
+            "slot": 15,
+            "image": "photos/0015.jpg",
+            "thumbnail": "thumbs/0015.jpg",
+            "date": "2026-07-24",
+            "capturedAt": "2026-07-24T23:56:42.9779687",
+            "worldName": "Origin ⁄ 原点",
+            "worldId": "wrld_ead111fb-4354-4f3f-b4a5-bb2202611700",
+            "tags": [],
+            "collections": [],
+            "favorite": false
+        },
+        {
+            "slot": 14,
+            "image": "photos/0014.jpg",
+            "thumbnail": "thumbs/0014.jpg",
+            "date": "2026-07-24",
+            "capturedAt": "2026-07-24T23:49:43.3345935",
+            "worldName": "5⁄13",
+            "worldId": "wrld_04e8e1c0-dc4f-440c-932d-05c8e4dfe218",
+            "tags": [],
+            "collections": [],
+            "favorite": false
+        },
+        {
             "slot": 13,
             "image": "photos/0013.jpg",
             "thumbnail": "thumbs/0013.jpg",
-            "date": "2026-08-23",
-            "capturedAt": "2026-08-23T16:47:47.774",
+            "date": "2026-07-24",
+            "capturedAt": "2026-07-24T23:49:17.4679424",
+            "worldName": "5⁄13",
+            "worldId": "wrld_04e8e1c0-dc4f-440c-932d-05c8e4dfe218",
+            "tags": [],
+            "collections": [],
+            "favorite": false
+        },
+        {
+            "slot": 6,
+            "image": "photos/0006.jpg",
+            "thumbnail": "thumbs/0006.jpg",
+            "date": "2026-07-19",
+            "capturedAt": "2026-07-19T22:20:50",
             "worldName": "",
             "worldId": "",
             "tags": [],
@@ -148,90 +232,6 @@
             "slot": 12,
             "image": "photos/0012.jpg",
             "thumbnail": "thumbs/0012.jpg",
-            "date": "2026-08-16",
-            "capturedAt": "2026-08-16T00:52:59.0931032",
-            "worldName": "路地裏の隠れ家 - Alley Hiding Spot",
-            "worldId": "wrld_4eee4965-abed-4e99-b070-b2d10b30d84d",
-            "tags": [],
-            "collections": [],
-            "favorite": false
-        },
-        {
-            "slot": 11,
-            "image": "photos/0011.jpg",
-            "thumbnail": "thumbs/0011.jpg",
-            "date": "2026-08-07",
-            "capturedAt": "2026-08-07T02:18:46.3256901",
-            "worldName": "Grace ⁄ 恵み",
-            "worldId": "wrld_ff8d5a44-b9a4-47bc-a8e8-ba8958c0dd41",
-            "tags": [],
-            "collections": [],
-            "favorite": false
-        },
-        {
-            "slot": 10,
-            "image": "photos/0010.jpg",
-            "thumbnail": "thumbs/0010.jpg",
-            "date": "2026-08-07",
-            "capturedAt": "2026-08-07T01:21:57.6445422",
-            "worldName": "Yayoi forest path",
-            "worldId": "wrld_adb5e8c2-1a03-437a-a69e-9f98a84a8966",
-            "tags": [],
-            "collections": [],
-            "favorite": false
-        },
-        {
-            "slot": 9,
-            "image": "photos/0009.jpg",
-            "thumbnail": "thumbs/0009.jpg",
-            "date": "2026-07-24",
-            "capturedAt": "2026-07-24T23:56:42.9779687",
-            "worldName": "Origin ⁄ 原点",
-            "worldId": "wrld_ead111fb-4354-4f3f-b4a5-bb2202611700",
-            "tags": [],
-            "collections": [],
-            "favorite": false
-        },
-        {
-            "slot": 8,
-            "image": "photos/0008.jpg",
-            "thumbnail": "thumbs/0008.jpg",
-            "date": "2026-07-24",
-            "capturedAt": "2026-07-24T23:49:43.3345935",
-            "worldName": "5⁄13",
-            "worldId": "wrld_04e8e1c0-dc4f-440c-932d-05c8e4dfe218",
-            "tags": [],
-            "collections": [],
-            "favorite": false
-        },
-        {
-            "slot": 7,
-            "image": "photos/0007.jpg",
-            "thumbnail": "thumbs/0007.jpg",
-            "date": "2026-07-24",
-            "capturedAt": "2026-07-24T23:49:17.4679424",
-            "worldName": "5⁄13",
-            "worldId": "wrld_04e8e1c0-dc4f-440c-932d-05c8e4dfe218",
-            "tags": [],
-            "collections": [],
-            "favorite": false
-        },
-        {
-            "slot": 0,
-            "image": "photos/0000.jpg",
-            "thumbnail": "thumbs/0000.jpg",
-            "date": "2026-07-19",
-            "capturedAt": "2026-07-19T22:20:50",
-            "worldName": "",
-            "worldId": "",
-            "tags": [],
-            "collections": [],
-            "favorite": false
-        },
-        {
-            "slot": 6,
-            "image": "photos/0006.jpg",
-            "thumbnail": "thumbs/0006.jpg",
             "date": "2026-07-17",
             "capturedAt": "2026-07-17T00:56:48.9035330",
             "worldName": "Just A Cabin",
@@ -241,9 +241,9 @@
             "favorite": false
         },
         {
-            "slot": 5,
-            "image": "photos/0005.jpg",
-            "thumbnail": "thumbs/0005.jpg",
+            "slot": 11,
+            "image": "photos/0011.jpg",
+            "thumbnail": "thumbs/0011.jpg",
             "date": "2026-07-11",
             "capturedAt": "2026-07-11T00:05:34.5754486",
             "worldName": "ゆく夏の憶那-okurina-",
@@ -253,9 +253,9 @@
             "favorite": false
         },
         {
-            "slot": 4,
-            "image": "photos/0004.jpg",
-            "thumbnail": "thumbs/0004.jpg",
+            "slot": 10,
+            "image": "photos/0010.jpg",
+            "thumbnail": "thumbs/0010.jpg",
             "date": "2026-07-10",
             "capturedAt": "2026-07-10T23:28:47.417",
             "worldName": "",
@@ -265,9 +265,9 @@
             "favorite": false
         },
         {
-            "slot": 3,
-            "image": "photos/0003.jpg",
-            "thumbnail": "thumbs/0003.jpg",
+            "slot": 9,
+            "image": "photos/0009.jpg",
+            "thumbnail": "thumbs/0009.jpg",
             "date": "2026-07-10",
             "capturedAt": "2026-07-10T23:24:13.105",
             "worldName": "",
@@ -277,9 +277,9 @@
             "favorite": false
         },
         {
-            "slot": 2,
-            "image": "photos/0002.jpg",
-            "thumbnail": "thumbs/0002.jpg",
+            "slot": 8,
+            "image": "photos/0008.jpg",
+            "thumbnail": "thumbs/0008.jpg",
             "date": "2026-07-04",
             "capturedAt": "2026-07-04T23:06:31.1205723",
             "worldName": "記憶の欠片",
@@ -289,9 +289,9 @@
             "favorite": false
         },
         {
-            "slot": 1,
-            "image": "photos/0001.jpg",
-            "thumbnail": "thumbs/0001.jpg",
+            "slot": 7,
+            "image": "photos/0007.jpg",
+            "thumbnail": "thumbs/0007.jpg",
             "date": "2026-07-03",
             "capturedAt": "2026-07-03T06:49:44.133",
             "worldName": "",
