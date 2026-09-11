@@ -1,7 +1,7 @@
 MemoryFrame Publish Bundle
 ==========================
 
-Photo count: 18
+Photo count: 25
 
 Upload these to your web root:
 - gallery.json
