@@ -8,7 +8,7 @@ Upload these to your web root:
 - photos/
 - thumbs/
 
-gallery.json now includes capturedAt, worldName, and worldId when detected.
+gallery.json uses compact runtime schema v2 (short keys, no redundant image/thumbnail/date strings).
 
 Keep memoryframe_manifest.json locally if you want slot numbers to remain stable.
 It contains local source paths and does not need to be published.
